@@ -1,7 +1,7 @@
 # Skilharvest-Data-Analysis-Student-Overview
 ![Skilharvest-Data-Analysis-Student-Overview](https://github.com/Oluchiumeh/Skilharvest-Data-Analysis-Student-Overview/blob/main/Skillharvest%20dashboard.png)
 ## Overview
-This project presents an analysis of student demographic data. The dataset includes attributes such as age range, gender, occupation, marital status, highest education level, and country. The objective is to gain insights into the characteristics of the student population and understand demographic trends among students.
+This project presents an analysis of student demographic data. The dataset includes attributes such as age range, gender, occupation, marital status, highest education level, and country. The objective is to gain insights into the characteristics of the student population and understand demographic trends among students. By leveraging Power BI's capabilities for data visualization and analysis, this project aims to provide a comprehensive overview of student demographics for skilharvest and policymakers.
 
 ## Dataset
 
@@ -34,6 +34,18 @@ The dataset can be gotten [Here](https://docs.google.com/spreadsheets/d/1j683Iej
 - Calculated summary statistics for numerical variables (if applicable) and frequency distributions for categorical variables.
 
 - Visualized the distribution of students by various demographic attributes using charts and graphs.
+
+### Demographic Trends
+
+- Analyzed demographic trends, such as the distribution of age groups or shifts in gender representation.
+
+- Identified differences in demographic profiles across occupations, marital status categories, education levels, and countries.
+
+### Regional Analysis
+
+- Conducted a regional analysis to compare student demographics across different countries.
+
+- Visualized geographic distribution of students and explored variations in demographic characteristics by country.
 
 ## Insights
 1. Age Distribution: Identified the age distribution of students to understand the age profile of the student population.
